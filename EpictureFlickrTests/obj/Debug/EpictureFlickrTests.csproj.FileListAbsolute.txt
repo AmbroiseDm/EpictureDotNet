@@ -1,0 +1,16 @@
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\EpictureFlickrTests.dll
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\EpictureFlickrTests.pdb
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\obj\Debug\EpictureFlickrTests.csprojResolveAssemblyReference.cache
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\obj\Debug\EpictureFlickrTests.csproj.CoreCompileInputs.cache
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\obj\Debug\EpictureFlickrTests.dll
+C:\Users\49489\source\repos\EpictureFlickr\EpictureFlickrTests\obj\Debug\EpictureFlickrTests.pdb
